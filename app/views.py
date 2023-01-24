@@ -50,16 +50,5 @@ def handle_referral(referrer, referral):
 
 
 
-# referre = User.objects.get(pk=4)
-# referrer = float(referre.subscription_amount)
-# print('hhhhhhhhhhhh...',referrer)
 
-# referrl = User.objects.get(pk=3)
-# referral = float(referrl.subscription_amount)
-# print('lllllllll...',referral)
-
-
-# print('Calculate Commission..........',calculate_commission(referrer))
-# print('Calculate_multi_level_commission............',calculate_multi_level_commission(referrer,3))
-# print('Handle referral............',handle_referral(referre,referrl))
 
